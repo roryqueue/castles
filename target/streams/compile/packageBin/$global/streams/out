@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/roryquinlan/castles/target/scala-2.12/castles_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	castles/resource/ResourceProducer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/roryquinlan/castles/target/scala-2.12/classes/castles/resource/ResourceProducer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	castles/resource/ResourceProducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/roryquinlan/castles/target/scala-2.12/classes/castles/resource/ResourceProducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/roryquinlan/castles/target/scala-2.12/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	castles[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/roryquinlan/castles/target/scala-2.12/classes/castles[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/roryquinlan/castles/target/scala-2.12/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	castles/resource[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/roryquinlan/castles/target/scala-2.12/classes/castles/resource[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
