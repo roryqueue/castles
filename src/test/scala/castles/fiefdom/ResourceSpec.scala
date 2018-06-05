@@ -1,4 +1,4 @@
-package castles.resource
+package castles.fiefdom
 
 import castles.BaseSpec
 

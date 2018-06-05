@@ -1,4 +1,4 @@
-package castles.resource
+package castles.fiefdom
 
 final case class ResourceProducer(creatorCount: Int, inventoryCount: Int)
 
